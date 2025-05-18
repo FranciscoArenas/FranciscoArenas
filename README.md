@@ -12,15 +12,18 @@ Soy un desarrollador apasionado por la tecnología, el aprendizaje y la creació
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### [SoyChile](https://github.com/FranciscoArenas/soychile)
+### [SoyChile](https://soychile.cl)
 Plataforma de noticias y comunidad desarrollada con Nuxt y Vue.js, enfocada en la experiencia de usuario y la escalabilidad.
 
-### [Suscripción](https://github.com/FranciscoArenas/suscripcion)
+### [Suscripción](https://suscripciones.pasedigital.cl)
 Sistema integral para la gestión de suscripciones, construido con Laravel y Vue.js, integrando pagos y notificaciones automatizadas.
 
 ### [Psicoespacio](https://github.com/FranciscoArenas/psicoespacio)
