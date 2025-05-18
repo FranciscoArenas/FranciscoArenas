@@ -1,21 +1,44 @@
 # 👋 ¡Hola! Soy Francisco Arenas
 
-Desarrollador de software apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles.
-
-## 🚀 Sobre mí
-- 💻 Me especializo en **Python**, **JavaScript** y desarrollo web.
-- ✨ Me encanta contribuir a proyectos open source.
-- 🔭 Actualmente trabajando en [MiProyectoDestacado](https://github.com/FranciscoArenas/MiProyectoDestacado)
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/FranciscoArenas) | [Twitter](https://twitter.com/TwitterDeFrancisco)
-
-## 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoArenas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoArenas&layout=compact)
-
-## 🏆 Proyectos Destacados
-- [Proyecto 1](https://github.com/FranciscoArenas/Proyecto1): Breve descripción.
-- [Proyecto 2](https://github.com/FranciscoArenas/Proyecto2): Breve descripción.
+¡Bienvenido/a a mi perfil de GitHub!  
+Soy un desarrollador apasionado por la tecnología, el aprendizaje y la creación de soluciones que generen impacto. Me especializo en el desarrollo web usando herramientas modernas y frameworks robustos.
 
 ---
 
-¡Gracias por visitar mi perfil!
+## 🚀 Tecnologías Destacadas
+
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+---
+
+## 🌟 Proyectos Destacados
+
+### [SoyChile](https://github.com/FranciscoArenas/soychile)
+Plataforma de noticias y comunidad desarrollada con Nuxt y Vue.js, enfocada en la experiencia de usuario y la escalabilidad.
+
+### [Suscripción](https://github.com/FranciscoArenas/suscripcion)
+Sistema integral para la gestión de suscripciones, construido con Laravel y Vue.js, integrando pagos y notificaciones automatizadas.
+
+### [Psicoespacio](https://github.com/FranciscoArenas/psicoespacio)
+Aplicación web para conectar profesionales de la psicología con pacientes, utilizando NestJS para el backend y Nuxt para el frontend.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoArenas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoArenas&layout=compact&theme=radical)
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/FranciscoArenas)
+- [Twitter](https://twitter.com/TwitterDeFrancisco)
+
+---
+
+¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna idea, no dudes en contactarme 🚀
