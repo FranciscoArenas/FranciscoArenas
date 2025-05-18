@@ -11,6 +11,7 @@ Soy un desarrollador apasionado por la tecnología, el aprendizaje y la creació
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
@@ -36,8 +37,7 @@ Aplicación web para conectar profesionales de la psicología con pacientes, uti
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/FranciscoArenas)
-- [Twitter](https://twitter.com/TwitterDeFrancisco)
+- [LinkedIn](https://www.linkedin.com/in/francisco-arenas-pizarro)
 
 ---
 
